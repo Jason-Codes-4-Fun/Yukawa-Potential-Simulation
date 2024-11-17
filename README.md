@@ -9,5 +9,7 @@ After that you can check out, Yukawa.blend, Yukawa_deformation.py, and Function_
 Function_Move.py sets keyframe animation data from our CSV file in blender, and Yukawa_deformation.py creates a visual 3d graph of the potential(it's not physically to scale).
 
 You can also check out the blend file to see the set up and special effects if you like, included is the finished GIFs and videos of the animation.
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8edc296b-660a-46a8-a086-eeb541fd9f5e" alt="Funny cat gif" width="400">
+</div>
 ![Yukawa_Render](https://github.com/user-attachments/assets/8edc296b-660a-46a8-a086-eeb541fd9f5e)
