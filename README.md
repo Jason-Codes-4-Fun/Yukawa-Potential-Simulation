@@ -2,7 +2,9 @@
 A few python scripts I used to simulate a closed loop orbit around the yukawa potential
 
 The first file you want to check out is Yukawa Orbit.ipynb, which is he jupyter notebook file that computes the orbit around the potential and creates a GIF and a CSV from our solution data Yukawa_potential_data.csv.
+<div align="center">
  <img src="https://github.com/user-attachments/assets/f4eb1d20-9652-4057-8de3-0d1c278186c2" alt="Funny cat gif" width="700">
+</div>
 
 After that you can check out, Yukawa.blend, Yukawa_deformation.py, and Function_Move.py.
 
